@@ -1,0 +1,10 @@
+class phone{
+ int price;
+ String brand;
+ String name;
+ 
+ public void show(){
+    System.out.println(brand + " : " + price + " : " name);     
+ }
+
+}

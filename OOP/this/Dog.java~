@@ -1,0 +1,12 @@
+class Dog
+{
+ String name;
+ String breed; 
+ String action;
+ 
+ public void Command(String action)
+ {
+  this.action= action;
+ }
+ 
+}
