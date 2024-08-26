@@ -1,0 +1,11 @@
+class AdvCalc 
+{
+ public double div(double n,double n1)
+ {
+  return n/n1;
+ } 
+ public int add(int n,int n1)
+ {
+  return n*n1;
+ } 
+}

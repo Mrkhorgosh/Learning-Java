@@ -1,0 +1,7 @@
+class VeryAdvCalc extends AdvCalc
+{
+ public double power(int n,int n1)
+ {
+  return Math.pow(n,n1);
+ }
+}
